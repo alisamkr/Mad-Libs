@@ -1,7 +1,6 @@
 import random
 
 random_story = random.randint(0,2)
-
 if random_story == 0:
     story_template0 = "It was about {0} {1}s ago when I arrived at the hospital in a \
     {2}. The hospital is a/an {3} place, there are a lot of {4} {5}s here. There are \
